@@ -1,3 +1,5 @@
+**Source files:** Download and extract [the project archive](life-insurance-management-system.zip). The setup instructions below refer to the extracted archive.
+
 # Life Insurance Management System
 
 Team web application for life insurance policy applications, claims, payments, messaging, audit logs, and administrative workflows. Built with Spring Boot, Thymeleaf, and MySQL.
